@@ -35,7 +35,7 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/900x520/0B0E14/FFFFFF?text=Cole+aqui+o+link+ou+print+do+seu+Dashboard" alt="xLozer Optimizer Dashboard" width="850"/>
+  <img src="https://i.postimg.cc/bY7Jxt9Y/Screenshot-2026-11-08-191759.png" alt="xLozer Optimizer Dashboard" width="850"/>
 </div>
 
 ---
