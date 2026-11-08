@@ -42,7 +42,7 @@
 
 ## 🚀 Download
 
-1. Acesse a aba **[Releases](https://github.com/SEU_USUARIO/xLozer-Optimizer/releases)** na barra lateral direita.
+1. Acesse a aba **[Releases](https://github.com/xLozer/xLozer-Optimizer/releases)** na barra lateral direita.
 2. Baixe o executável autônomo `Stream_Optimizer.exe`.
 3. Execute como **Administrador** para permitir a gestão dos privilégios de kernel e serviços do Windows.
 
