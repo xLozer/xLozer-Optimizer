@@ -1,0 +1,13 @@
+## Pastas de compilação
+bin/
+obj/
+publish/
+
+## Configurações locais de IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+## Configurações locais de utilizador
+user_settings.json
